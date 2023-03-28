@@ -3,6 +3,25 @@
     flex-direction: column;
     align-items: center;
   }
-
-
   
+  .mealContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 50%;
+  }
+  
+  .indexText {
+    font-size: large;
+    text-align: center;
+  }
+  
+  .indexButton button {
+    border-color: transparent;
+    padding: 14px 21px;
+    font-size: 17px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+
